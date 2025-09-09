@@ -1,0 +1,18 @@
+# node
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+
+# SQLite DB
+*.db
+data.db
+
+# IDE files
+.vscode/
+.idea/
+*.log
+
+# OS files
+Thumbs.db
